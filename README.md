@@ -1,7 +1,7 @@
 # 🏛️ Alexis Tassone
 **Data Operations Analyst | Mathematics & Statistics Specialist**
 
-> [cite_start]Detail-oriented Data Analyst with a foundation in probability and statistical modelling from the University of Toronto[cite: 4, 24, 26]. [cite_start]Passionate about transforming messy data into reliable, actionable insights through rigorous documentation and structured problem-solving[cite: 5, 7].
+> Detail-oriented Data Analyst with a foundation in probability and statistical modelling from the University of Toronto. Passionate about transforming messy data into reliable, actionable insights through rigorous documentation and structured problem-solving.
 
 ---
 
